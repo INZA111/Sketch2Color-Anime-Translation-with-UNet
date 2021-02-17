@@ -1,1 +1,1 @@
-# Sketch2Color-Anime-Translation-using-Generative-Adversarial-Network-GAN-
+# Sketch2Color-Anime-Translation
