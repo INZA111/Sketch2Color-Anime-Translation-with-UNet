@@ -4,6 +4,7 @@
 For a given sketch generate a Color Image.
 
 ### Dataset: https://www.kaggle.com/wuhecong/danbooru-sketch-pair-128x
+### Blog: https://khaninza.medium.com/sketch2color-anime-translation-with-u-net-2efaff6d8090
 
 ### U-Net Model
 The U-Net model architecture is very similar to encoder decoder model that it involves downsampling to a bottleneck and upsampling again to an output image, but links or skip-connections are made between layers of the same size in the encoder and the decoder, allowing the bottleneck to be circumvented.
